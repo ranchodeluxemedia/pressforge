@@ -1,0 +1,10 @@
+{
+    "name": "ranchodeluxemedia/public",
+    "authors": [
+        {
+            "name": "Chris Canterbury",
+            "email": "chris@ranchodeluxemedia.com"
+        }
+    ],
+    "require": {}
+}
